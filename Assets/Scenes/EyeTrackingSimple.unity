@@ -317,8 +317,8 @@ PrefabInstance:
     - target: {fileID: 7710310292029811587, guid: a75fce79ccfcd4554af934f1e0892a30,
         type: 3}
       propertyPath: m_text
-      value: Use code <color=red>225566</color> to activate tracked pose driver rotation
-        applied to this object.
+      value: Use code <color=red>225566</color> to activate the tracked pose driver
+        and its rotation will be applied to this object's rotation.
       objectReference: {fileID: 0}
     - target: {fileID: 7710310292029811587, guid: a75fce79ccfcd4554af934f1e0892a30,
         type: 3}
@@ -849,6 +849,12 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7710310292029811587, guid: a75fce79ccfcd4554af934f1e0892a30,
+        type: 3}
+      propertyPath: m_text
+      value: Gaze over each number for (1) second to type. The time required to gaze
+        over a number can be modified in the <b>GazePasscodeFeature Script</b>.
       objectReference: {fileID: 0}
     - target: {fileID: 7710310292029811587, guid: a75fce79ccfcd4554af934f1e0892a30,
         type: 3}
