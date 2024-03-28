@@ -16,4 +16,4 @@ A ready to deploy ML2 project which includes an Eye Tracking / Gaze Features sam
 |**Gaze / Eye Tracking Demos**|
 |:-:|
 |Included with EyeTrackingSimple.unity scene|
-|<img src="https://github.com/dilmerv/MagicLeapEyeTracking/blob/master/docs/images/ML2_EyeTracking_Demo_1.gif" width="560">|
+|<img src="https://github.com/dilmerv/MagicLeapEyeTracking/blob/master/Docs/Images/ML2_EyeTracking_Demo_1.gif" width="560">|
